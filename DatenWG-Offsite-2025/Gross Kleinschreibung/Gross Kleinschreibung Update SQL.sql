@@ -1,0 +1,1 @@
+UPDATE SalesLT.Customer SET CompanyName = 'friendly Bike Shop'  WHERE CustomerID = 29973
